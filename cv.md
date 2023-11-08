@@ -31,9 +31,9 @@
 * SASS
 
 ## __Недавние проекты__
-* Global Engineering - Адаптивная верстка сайта \| HTML / CSS / JS (нативный) / Swiperjs
+* __Global Engineering__ - Адаптивная верстка сайта \| HTML / CSS / JS (нативный) / Swiperjs
     + [ссылка на GitHub репозиторий](https://github.com/andrey-nee/GlobalEngineering)
-* Alterego Media - Адаптивная верстка сайта \| HTML / CSS / JS (нативный)
+* __Alterego Media__ - Адаптивная верстка сайта \| HTML / CSS / JS (нативный)
     + [ссылка на GitHub репозиторий](https://github.com/andrey-nee/AlterEgoMedia)
     + [ссылка на сайт Alterego Media](https://aemedia.uz/)
 
