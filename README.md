@@ -1,1 +1,1 @@
-# __[rsschool-cv](https://andrey-nee.github.io/rsschool-cv/cv)__
+# __[rsschool-cv](https://andrey-nee.github.io/rsschool-cv/)__
